@@ -59,6 +59,25 @@ Vulnerability   PoC / AppSec   Purple Team  CTI / DFIR   ISO/IEC 27001
 
 ---
 
+## 🎯 Bug Bounty
+
+Hallazgos reportados a programas de **Bugcrowd**, **HackerOne** y **VDP directos**
+(agencias y universidades), con divulgación responsable y detalle saneado.
+
+| Métrica | Valor |
+|:--|:--|
+| Hallazgos reportados | **34** |
+| Validados / aceptados | **13** |
+| Recompensas acumuladas | **$1,425 USD** |
+| Organizaciones target | **18** |
+| Clases de vulnerabilidad | **12** (IDOR, RCE, BAC, PII, ATO, SSRF…) |
+
+**Targets:** NASA · WHO/OMS · DHS · Harvard · Drexel · HPE · Atlassian · CODE.ORG · Internet Brands · WordPress · GitLab · Vercel · ClickHouse · OpenAI · iFood y más.
+
+> 📂 **[Ver portafolio completo → kur0s4k1/Bug-Bounties](https://github.com/kur0s4k1/Bug-Bounties)**
+
+---
+
 ## 🌎 Reconocimientos internacionales
 
 Hall of Fame y cartas de reconocimiento por divulgación responsable:
@@ -81,6 +100,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 
 <div align="center">
 
+<a href="https://github.com/kur0s4k1/Bug-Bounties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Bug-Bounties&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/HackTheBox-Writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=HackTheBox-Writeups&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=IoC-ClickFix-PoderJudicial-pjud-online&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/IoC-PowerBI-Docusign-Phishing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=IoC-PowerBI-Docusign-Phishing&theme=radical&hide_border=true" /></a>
@@ -90,6 +110,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 
 | Proyecto | Descripción |
 |---|---|
+| **[Bug-Bounties](https://github.com/kur0s4k1/Bug-Bounties)** | Portafolio de investigación: 34 hallazgos reportados a Bugcrowd/HackerOne/VDP, con estado, severidad, recompensas y política de divulgación responsable. |
 | **[HackTheBox-Writeups](https://github.com/kur0s4k1/HackTheBox-Writeups)** | Writeups de operaciones reales: cadena de ataque paso a paso, pistas, intentos fallidos y evidencia visual hasta `root`. |
 | **[IoC-ClickFix-PoderJudicial](https://github.com/kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online)** | CTI: campaña ClickFix suplantando al Poder Judicial de Chile — cadena *fileless* de 6 etapas vía `mshta` que entrega un RAT AutoIt polimórfico. IoCs, detonación tipo sandbox, detecciones SIEM/EDR. |
 | **[IoC-PowerBI-Docusign-Phishing](https://github.com/kur0s4k1/IoC-PowerBI-Docusign-Phishing)** | DFIR: análisis forense de una campaña de phishing (Kali365 PhaaS) abusando de Power BI y MailinBlack. IoCs, mapeo MITRE ATT&CK, atribución y objetivos de takedown. |
