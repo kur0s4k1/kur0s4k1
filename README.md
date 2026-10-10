@@ -103,6 +103,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 <a href="https://github.com/kur0s4k1/Bug-Bounties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Bug-Bounties&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/HackTheBox-Writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=HackTheBox-Writeups&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/Blue-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Blue-Team&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/kur0s4k1/GRC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=GRC&theme=radical&hide_border=true" /></a>
 
 </div>
 
@@ -111,6 +112,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 | **[Bug-Bounties](https://github.com/kur0s4k1/Bug-Bounties)** | Portafolio de investigación: 34 hallazgos reportados a Bugcrowd/HackerOne/VDP, con estado, severidad, recompensas y política de divulgación responsable. |
 | **[HackTheBox-Writeups](https://github.com/kur0s4k1/HackTheBox-Writeups)** | Writeups de operaciones reales: cadena de ataque paso a paso, pistas, intentos fallidos y evidencia visual hasta `root`. |
 | **[Blue-Team](https://github.com/kur0s4k1/Blue-Team)** | Defensa/CTI: arsenal Blue Team — herramientas de DFIR (Wazuh Indexer Forensic Exporter) y análisis de campañas de phishing desarticuladas con IOCs, mapeo MITRE ATT&CK y detecciones accionables. |
+| **[GRC](https://github.com/kur0s4k1/GRC)** | Gobernanza, Riesgo y Cumplimiento: ISO/IEC 27001, NIST CSF 2.0, marcos industriales OT/ICS (IEC 62443 · NIST 800-82 · NERC CIP) y normativas legales (Ley 21.663/21.719, GDPR, NIS2, DORA, PCI DSS). Metodología de riesgo y plantillas. |
 | **[Notepad-OOB-Read-Local-DoS](https://github.com/kur0s4k1/Notepad-OOB-Read-Local-DoS)** | Research: PoC de Out-of-Bounds Read / DoS en Notepad++ vía `WM_COPYDATA`. |
 | **[decoydetection](https://github.com/kur0s4k1/decoydetection)** | Defensa: detección de *decoys* de distintas marcas que evaden motores IDS/IPS. |
 
