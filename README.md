@@ -68,7 +68,7 @@ Hallazgos reportados a programas de **Bugcrowd**, **HackerOne** y **VDP directos
 |:--|:--|
 | Hallazgos reportados | **34** |
 | Validados / aceptados | **13** |
-| Recompensas acumuladas | **$1,425 USD** |
+| Recompensas acumuladas | **$$$$** |
 | Organizaciones target | **18** |
 | Clases de vulnerabilidad | **12** (IDOR, RCE, BAC, PII, ATO, SSRF…) |
 
@@ -102,9 +102,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 
 <a href="https://github.com/kur0s4k1/Bug-Bounties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Bug-Bounties&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/kur0s4k1/HackTheBox-Writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=HackTheBox-Writeups&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=IoC-ClickFix-PoderJudicial-pjud-online&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/IoC-PowerBI-Docusign-Phishing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=IoC-PowerBI-Docusign-Phishing&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/wazuh_idx_bkp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=wazuh_idx_bkp&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/kur0s4k1/Blue-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Blue-Team&theme=radical&hide_border=true" /></a>
 
 </div>
 
@@ -112,9 +110,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 |---|---|
 | **[Bug-Bounties](https://github.com/kur0s4k1/Bug-Bounties)** | Portafolio de investigación: 34 hallazgos reportados a Bugcrowd/HackerOne/VDP, con estado, severidad, recompensas y política de divulgación responsable. |
 | **[HackTheBox-Writeups](https://github.com/kur0s4k1/HackTheBox-Writeups)** | Writeups de operaciones reales: cadena de ataque paso a paso, pistas, intentos fallidos y evidencia visual hasta `root`. |
-| **[IoC-ClickFix-PoderJudicial](https://github.com/kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online)** | CTI: campaña ClickFix suplantando al Poder Judicial de Chile — cadena *fileless* de 6 etapas vía `mshta` que entrega un RAT AutoIt polimórfico. IoCs, detonación tipo sandbox, detecciones SIEM/EDR. |
-| **[IoC-PowerBI-Docusign-Phishing](https://github.com/kur0s4k1/IoC-PowerBI-Docusign-Phishing)** | DFIR: análisis forense de una campaña de phishing (Kali365 PhaaS) abusando de Power BI y MailinBlack. IoCs, mapeo MITRE ATT&CK, atribución y objetivos de takedown. |
-| **[wazuh_idx_bkp](https://github.com/kur0s4k1/wazuh_idx_bkp)** | Ingeniería: exportador forense en Python para Wazuh Indexer/OpenSearch — respaldo mensual en NDJSON.GZ con manifiesto y hashes SHA-256 para auditoría y continuidad. |
+| **[Blue-Team](https://github.com/kur0s4k1/Blue-Team)** | Defensa/CTI: arsenal Blue Team — herramientas de DFIR (Wazuh Indexer Forensic Exporter) y análisis de campañas de phishing desarticuladas con IOCs, mapeo MITRE ATT&CK y detecciones accionables. |
 | **[Notepad-OOB-Read-Local-DoS](https://github.com/kur0s4k1/Notepad-OOB-Read-Local-DoS)** | Research: PoC de Out-of-Bounds Read / DoS en Notepad++ vía `WM_COPYDATA`. |
 | **[decoydetection](https://github.com/kur0s4k1/decoydetection)** | Defensa: detección de *decoys* de distintas marcas que evaden motores IDS/IPS. |
 
