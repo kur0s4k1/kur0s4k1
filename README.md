@@ -4,8 +4,6 @@
 
 # Kurosaki · Security Research
 
-### 🌐 [Explorar mi portafolio interactivo](https://kur0s4k1.github.io/kur0s4k1/)
-
 **Investigación de vulnerabilidades · Seguridad ofensiva · Defensa, CTI y GRC**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edeclerck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edeclerck/)
