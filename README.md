@@ -120,7 +120,7 @@ Hall of Fame y cartas de reconocimiento por divulgación responsable:
 
 ## 🎓 Certificaciones
 
-**Ofensiva:** `CEH Master` · `CEH` · `CEH Practical` · `CRTSv2` · `CAPenX` · `CRTA` · `C-APIPen` · `CASA` · `CNPen` · `CAPen` · `CRT-ID` · `CRTOM` · `COPO` · `CSCRB` · `DANTE` · `AD-RTS`
+**Ofensiva:** `CEH Master` · `CEH` · `CEH Practical` · `Puppet C2 Operations` · `CRTSv2` · `CAPenX` · `CRTA` · `C-APIPen` · `CASA` · `CNPen` · `CAPen` · `CRT-ID` · `CRTOM` · `COPO` · `CSCRB` · `DANTE` · `AD-RTS`
 
 **Defensa:** `NSE7` · `NSE6` · `NSE5` · `NSE4` · `NNCCD` · `GCSE` · `GCSA` · `ONSA` · `vRx` · `CNSE` · `CBTeamerX` · `CNSP`
 
