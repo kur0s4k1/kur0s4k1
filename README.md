@@ -24,12 +24,9 @@ Profesional de **ciberseguridad** con foco en **investigación de vulnerabilidad
   Miembro de <strong>NIGHT CREW</strong>.
 </p>
 
-```text
-Research ──▶ Exploit (safe) ──▶ Detect ──▶ Defend ──▶ Reduce Risk
-   │              │               │           │            │
-Vulnerability   PoC / AppSec   Purple Team  CTI / DFIR   ISO/IEC 27001
- Research       AD / API        Detections   Threat Hunt  Risk Mgmt
-```
+<p align="center">
+  <img src="assets/security-workflow.svg" alt="Flujo de seguridad: Research, Exploit con validación segura, Detect, Defend y Reduce Risk" width="1100" />
+</p>
 
 > *Mentalidad ofensiva, propósito defensivo.* Cada debilidad documentada viene con su detección y su mitigación.
 
