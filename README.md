@@ -17,7 +17,7 @@
 
 ## Perfil profesional
 
-Profesional de **ciberseguridad** con foco en **investigación de vulnerabilidades** y **operaciones de seguridad de extremo a extremo**. Traduzco hallazgos técnicos en **reducción medible de riesgo**: desde el descubrimiento responsable de vulnerabilidades y la validación de controles, hasta la detección, la respuesta a incidentes y el gobierno de seguridad (ISO/IEC 27001).
+Profesional de **ciberseguridad** con foco en **investigación de vulnerabilidades** y **operaciones de seguridad de extremo a extremo**. Traduzco hallazgos técnicos en **reducción medible de riesgo**: desde el descubrimiento responsable de vulnerabilidades y la validación de controles, hasta la detección, la respuesta a incidentes y el gobierno de seguridad.
 
 <p align="center">
   <img src="assets/night-crew-logo.png" alt="Logo de NIGHT CREW" width="180" /><br />
