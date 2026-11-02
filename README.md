@@ -52,7 +52,7 @@ Vulnerability   PoC / AppSec   Purple Team  CTI / DFIR   ISO/IEC 27001
 | CVE | Producto | Vulnerabilidad | Severidad |
 |---|---|---|:--:|
 | [**CVE-2026-48770**](https://www.cve.org/CVERecord?id=CVE-2026-48770) | Notepad++ | Out-of-Bounds Read / DoS vía `WM_COPYDATA` | **5.0 · Medium** |
-| [**CVE-2026-46710**](https://www.cve.org/CVERecord?id=CVE-2026-46710) | Notepad++ Installer | Escalada local de privilegios (LPE) | **7.8 · High** |
+| [**CVE-2026-46710**](https://www.cve.org/CVERecord?id=CVE-2026-46710) | Notepad++ | Escalada local de privilegios (LPE) | **7.8 · High** |
 | [**CVE-2026-71858**](https://www.cve.org/CVERecord?id=CVE-2026-71858) | Notepad++ | Bypass de protección HMAC | **5.4 · Medium** |
 | *En revisión* | Notepad++ | Heap Buffer Overflow con fichero UTF-16 manipulado | **7.0 · High** |
 
