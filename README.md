@@ -83,25 +83,20 @@ Hallazgos reportados a programas de **Bugcrowd**, **HackerOne** y **VDP directos
 
 ## 🌎 Reconocimientos
 
-### Competencias de ciberseguridad
+Reconocimientos por divulgación responsable y participación en competencias de ciberseguridad:
 
-**6.º lugar a nivel nacional en Chile junto al equipo NIGHT CREW.** Reconocimiento por la participación y resolución de desafíos de ciberseguridad en inteligencia de fuentes abiertas (OSINT), análisis de binarios y hacking ético. [Ver certificado de participación en Hackrocks](https://hackrocks.com/certs/be6c181a-642c-4a99-adb6-e7e383344805).
-
-### Reconocimientos internacionales
-
-Hall of Fame y cartas de reconocimiento por divulgación responsable:
-
-| Organización | Reconocimiento |
-|---|---|
-| **NASA** — National Aeronautics and Space Administration | Hall of Fame · Letter of Recognition |
-| **Harvard University** | Hall of Fame · Letter of Recognition |
-| **Drexel University** | Hall of Fame · Letter of Recognition |
-| **World Health Organization (WHO / OMS)** | Hall of Fame |
-| **Department of Homeland Security (DHS)** | Hall of Fame |
-| **Hewlett Packard Enterprise (HPE)** | Hall of Fame |
-| **Atlassian** | Hall of Fame |
-| **CodeAI** | Hall of Fame |
-| **Internet Brands** | Hall of Fame |
+| Organización | Reconocimiento | Enlace |
+|---|---|---|
+| **NASA** — National Aeronautics and Space Administration | Hall of Fame público en Bugcrowd · Letter of Recognition | [Publicación](https://www.linkedin.com/feed/update/urn:li:activity:7397315738916761600/) |
+| **Harvard University** | En espera de remediación | |
+| **Drexel University** | Hall of Fame público en Bugcrowd · Letter of Recognition | [Publicación](https://www.linkedin.com/feed/update/urn:li:activity:7504227590581362688/) |
+| **World Health Organization (WHO / OMS)** | Hall of Fame público en Bugcrowd | [Publicación](https://www.linkedin.com/feed/update/urn:li:activity:7511150457155907584/) |
+| **Department of Homeland Security (DHS)** | Hall of Fame público en Bugcrowd | |
+| **Hewlett Packard Enterprise (HPE)** | Hall of Fame en HackerOne | |
+| **Atlassian** | Hall of Fame público en Bugcrowd | |
+| **CodeAI** | Hall of Fame público en Bugcrowd | |
+| **Internet Brands** | Hall of Fame público en Bugcrowd | |
+| **Hackrocks · Equipo NIGHT CREW** | **6.º lugar a nivel nacional en Chile, en equipo.** Reconocimiento por la participación y resolución de desafíos de OSINT, análisis de binarios y hacking ético | [Certificado de participación](https://hackrocks.com/certs/be6c181a-642c-4a99-adb6-e7e383344805) |
 
 ---
 
