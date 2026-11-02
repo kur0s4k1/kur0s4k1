@@ -19,6 +19,11 @@
 
 Profesional de **ciberseguridad** con foco en **investigación de vulnerabilidades** y **operaciones de seguridad de extremo a extremo**. Traduzco hallazgos técnicos en **reducción medible de riesgo**: desde el descubrimiento responsable de vulnerabilidades y la validación de controles, hasta la detección, la respuesta a incidentes y el gobierno de seguridad (ISO/IEC 27001).
 
+<p align="center">
+  <img src="assets/night-crew-logo.png" alt="Logo de NIGHT CREW" width="180" /><br />
+  Miembro de <strong>NIGHT CREW</strong>.
+</p>
+
 ```text
 Research ──▶ Exploit (safe) ──▶ Detect ──▶ Defend ──▶ Reduce Risk
    │              │               │           │            │
@@ -76,7 +81,13 @@ Hallazgos reportados a programas de **Bugcrowd**, **HackerOne** y **VDP directos
 
 ---
 
-## 🌎 Reconocimientos internacionales
+## 🌎 Reconocimientos
+
+### Competencias de ciberseguridad
+
+**6.º lugar a nivel nacional en Chile junto al equipo NIGHT CREW.** Reconocimiento por la participación y resolución de desafíos de ciberseguridad en inteligencia de fuentes abiertas (OSINT), análisis de binarios y hacking ético. [Ver certificado de participación en Hackrocks](https://hackrocks.com/certs/be6c181a-642c-4a99-adb6-e7e383344805).
+
+### Reconocimientos internacionales
 
 Hall of Fame y cartas de reconocimiento por divulgación responsable:
 
