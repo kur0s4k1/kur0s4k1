@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="140" viewBox="0 0 460 140" role="img" aria-labelledby="title description">
+  <title id="title">Blue-Team</title>
+  <desc id="description">Defensa, DFIR y CTI. Herramientas · Detecciones · Fortinet.</desc>
+  <rect x="1" y="1" width="458" height="138" rx="12" fill="#141321" stroke="#303047"/>
+  <path d="M25 31h15v16H25zM29 27h15v16" fill="none" stroke="#f8d847" stroke-width="2" stroke-linejoin="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="57" y="45" fill="#fe428e" font-size="21" font-weight="700">Blue-Team</text>
+    <text x="25" y="81" fill="#d8dee9" font-size="17">Defensa, DFIR y CTI</text>
+    <text x="25" y="113" fill="#a9afc3" font-size="14">Herramientas · Detecciones · Fortinet</text>
+  </g>
+</svg>

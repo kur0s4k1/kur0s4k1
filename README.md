@@ -104,11 +104,11 @@ Reconocimientos por divulgación responsable y participación en competencias de
 
 <div align="center">
 
-<a href="https://github.com/kur0s4k1/Bug-Bounties"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Bug-Bounties&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/HackTheBox-Writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=HackTheBox-Writeups&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/Blue-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Blue-Team&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/GRC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=GRC&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/kur0s4k1/Pro-Labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kur0s4k1&repo=Pro-Labs&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/kur0s4k1/Bug-Bounties"><img src="assets/cards/bug-bounties.svg" alt="Bug-Bounties" width="460" /></a>
+<a href="https://github.com/kur0s4k1/HackTheBox-Writeups"><img src="assets/cards/hackthebox-writeups.svg" alt="HackTheBox-Writeups" width="460" /></a>
+<a href="https://github.com/kur0s4k1/Blue-Team"><img src="assets/cards/blue-team.svg" alt="Blue-Team" width="460" /></a>
+<a href="https://github.com/kur0s4k1/GRC"><img src="assets/cards/grc.svg" alt="GRC" width="460" /></a>
+<a href="https://github.com/kur0s4k1/Pro-Labs"><img src="assets/cards/pro-labs.svg" alt="Pro-Labs" width="460" /></a>
 
 </div>
 
@@ -138,7 +138,7 @@ Reconocimientos por divulgación responsable y participación en competencias de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kur0s4k1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/kur0s4k1?tab=overview"><img src="assets/cards/github-activity.svg" alt="Ver contribuciones y repositorios públicos en GitHub" width="460" /></a>
 <img height="165" src="https://streak-stats.demolab.com?user=kur0s4k1&theme=radical&hide_border=true" />
 
 <img width="100%" src="https://raw.githubusercontent.com/kur0s4k1/kur0s4k1/output/github-contribution-grid-snake.svg" alt="Actividad" />
